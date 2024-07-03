@@ -280,8 +280,8 @@ animation: animate-wave 500ms infinite ease-in-out;
 }
 
 .language:hover .language__img {
-  filter: brightness(80%);
-  opacity: 0.86;
+  filter: brightness(100%);
+  opacity: 0.86; 
   transform: scale(0.9);
 }
 
@@ -316,7 +316,7 @@ animation: animate-wave 500ms infinite ease-in-out;
 
 .language:hover .language__name {
   transform: scale(1);
-  opacity: 1;
+  opacity: 1; 
 }
 
 /* PROJECTs */
